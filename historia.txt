@@ -3,4 +3,5 @@ Ultima linea de edición de Iker después de oier
 El chico que se quedo sin su lugar de confianza para tomar café tomo una decisión
 =======
 Erase una vez un chico que bajaba todos los dias al mismo bar a echar un cafe, un dia el bar cerro, y las historias con los amigos termino, al estudiar todo se separo y la historia se acabo 
->>>>>>> introduccion
+>>>>>>> introducciony por ultimo termino la historia 
+ Para cerrar el trabajo ultima linea en introduccion 
